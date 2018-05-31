@@ -83,8 +83,8 @@ public class question3
          }
         
         } 
-        System.out.println("----- END OF PROGRAM -----");
-             
-        
+        System.out.println("----- END OF PROGRAM -----");     
     }
 }
+
+// Design a Java program to accept income from the user; compute the income tax to be paid and display the income and the tax payable on the screen. Your code should contain appropriate validations and must focus on code optimisation. Modify the code to repeat the program until the user enters an income value of -1. 
